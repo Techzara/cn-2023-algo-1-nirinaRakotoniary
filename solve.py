@@ -11,6 +11,7 @@ def share_candy(enfants, bonbons) :
     print(bonbons)
     return res
 
+#input format & ohatra for testing
 enfants = {
     "Alice" : ["chocolat", "guimauve"],
     "Bob" : ["caramel", "fruit"],
